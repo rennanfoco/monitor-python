@@ -23,13 +23,6 @@ GitHub Actions
 
 Healthchecks
 
-Estrutura do Projeto
-.
-├── teste.py
-├── README.md
-└── .github
-    └── workflows
-        └── monitor.yml
 Como Funciona
 
 O GitHub Actions executa o workflow em um intervalo definido por cron.
